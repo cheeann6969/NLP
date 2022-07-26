@@ -4,7 +4,7 @@
 Text documents are essential as they are one of the richest sources of data for businesses. Text documents often contain crucial information which might shape the market trends or influence investment flows. Therefore, companies often hire analysts to monitor the trend via articles posted online, tweets on social media platforms such as Twitter or articles from newspapers. However, some companies may wish to only focus on articles related to technologies and politics. Thus, filtering the articles into different categories is required.
 
 # Problem Statements
-Often the categorization of the articles is conducted manually and retrospectively; thus, causing the waste of time and resources due to this arduous task. Hence, our job is to categorize unseen articles into 5 categories, namely Sport, Tech, Business, Entertainment and Politics.
+Often the categorization of the articles is conducted manually and retrospectively; thus, causing the waste of time and resources due to this arduous task. Hence, our job is to **categorize unseen articles into 5 categories, namely Sport, Tech, Business, Entertainment and Politics.**
 
 # Model Development
 ![model](https://user-images.githubusercontent.com/29735171/180948724-9a54a934-91e3-4620-9852-f1edb883b738.png)
